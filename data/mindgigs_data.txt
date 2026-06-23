@@ -1,0 +1,42 @@
+1. Company Overview
+Company Name: MindGigs
+
+About Us: MindGigs is a premium software development and IT consulting agency. We help startups and enterprises build innovative digital products, AI solutions, and scalable web or mobile applications. Our mission is to transform client ideas into reality through reliable and cutting-edge technology.
+
+Contact & Location:
+Address: MindGigs, PTCL Training Center, KPIT Park, Board Bazar, Canal Town, Peshawar.
+Phone/WhatsApp: 03028844114
+Email: mindgigspk@gmail.com
+Working Hours: Monday to Saturday: 10 AM to 6 PM. (Sunday: Closed)
+
+Core IT Services:
+- Custom Web Development: Fast, secure, and scalable web applications using modern technologies like React, Node.js, and Python (Django/FastAPI).
+- Mobile App Development: Native and cross-platform app development for iOS and Android using Flutter and React Native.
+- AI & Chatbot Development: Custom RAG pipelines, OpenAI/Google Gemini integrations, and custom LLM-based customer support bots.
+- UI/UX Design: User-centric, intuitive, and visually appealing interfaces using Figma.
+
+Training Courses:
+MindGigs empowers students with modern tech skills. We offer the following professional courses:
+1. Full Stack Web Development
+2. Graphic Design & UI/UX Mastery
+3. Digital Marketing Bootcamp
+4. Python & AI Development
+
+Pricing & Engagement Models:
+MindGigs offers 3 flexible models:
+1. Fixed Price Model: Best for clear requirements; fixed budget and timeline upfront.
+2. Time & Material (Hourly Basis): Best for dynamic projects; billed only for actual hours worked.
+3. Dedicated Team: Top-tier developers available on a monthly retainer to extend your in-house team.
+
+Frequently Asked Questions (FAQs):
+Q: How long does it take to build a custom app?
+A: A basic MVP takes 4 to 6 weeks. Complex applications take 3 to 6 months.
+
+Q: Do you provide post-launch support?
+A: Yes, we provide 1 month of complimentary bug-fixing, followed by optional monthly maintenance packages.
+
+Q: What is the process for starting a project?
+A: Discovery call -> Proposal and Cost Estimate -> Sign Agreement -> Development Begins.
+
+Q: Will you keep my app idea confidential?
+A: 100%. We strictly sign NDAs to protect your intellectual property.
